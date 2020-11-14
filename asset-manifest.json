@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MY-OlX-APP/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/MY-OlX-APP/static/js/main.2f2587ae.chunk.js",
+    "main.js.map": "/MY-OlX-APP/static/js/main.2f2587ae.chunk.js.map",
+    "runtime-main.js": "/MY-OlX-APP/static/js/runtime-main.95fe601d.js",
+    "runtime-main.js.map": "/MY-OlX-APP/static/js/runtime-main.95fe601d.js.map",
+    "static/js/2.95176015.chunk.js": "/MY-OlX-APP/static/js/2.95176015.chunk.js",
+    "static/js/2.95176015.chunk.js.map": "/MY-OlX-APP/static/js/2.95176015.chunk.js.map",
+    "static/js/3.503f67e7.chunk.js": "/MY-OlX-APP/static/js/3.503f67e7.chunk.js",
+    "static/js/3.503f67e7.chunk.js.map": "/MY-OlX-APP/static/js/3.503f67e7.chunk.js.map",
+    "index.html": "/MY-OlX-APP/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/MY-OlX-APP/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.95176015.chunk.js.LICENSE.txt": "/MY-OlX-APP/static/js/2.95176015.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95fe601d.js",
+    "static/js/2.95176015.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2f2587ae.chunk.js"
+  ]
+}
